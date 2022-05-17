@@ -1,0 +1,6 @@
+docker run <container>
+docker start <container>
+docker stop <container>
+docker build -t <nome_tag> .
+docker-compose up -d
+docker-compose down
