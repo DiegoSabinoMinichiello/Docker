@@ -1,3 +1,4 @@
+sudo service docker start
 docker run <container>
 docker start <container>
 docker stop <container>
